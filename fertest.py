@@ -35,7 +35,7 @@ for i in range(len(y)):
 
 acc = (count/len(y))*100
 
-#saving values for confusion matrix and analysis CRISTINA QUINTERO CEDENO
+#saving values for confusion matrix and analysis CRISTINA QUINTERO CEDENO holiiii
 np.save('truey', truey)
 np.save('predy', predy)
 print("Predicted and true label values saved")
